@@ -32,22 +32,6 @@
 
 ###
 
-###
-
-<img align="left" height="200" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Blasphemous_%28video_game%29.jpg"  />
-
-###
-
-<div align="right">
-  <img height="200" src="https://cdn.awsli.com.br/2500x2500/229/229111/produto/56691874/1-avd224akxr.png"  />
-</div>
-
-###
-
-<img align="left" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wacKwa0iACsPxF_VnU3sDXDfP7xOs1vhsw&s"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
