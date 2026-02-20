@@ -33,3 +33,13 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/bigornasilva/bigornasilva/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bigornasilva.bigornasilva&"  />
+</div>
+
+###
