@@ -8,15 +8,19 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="500" src="https://i.pinimg.com/originals/af/28/92/af2892848598fa3b0e144ef554a74df4.gif"  />
+</div>
+
+###
+
+<img align="left" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wt9mI88fN7w5NQUlXiv92LjjUo3IoWWAQw&s"  />
+
+###
+
 <img align="right" height="200" src="https://giffiles.alphacoders.com/124/12442.gif"  />
-
-###
-
-<img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wt9mI88fN7w5NQUlXiv92LjjUo3IoWWAQw&s"  />
-
-###
-
-<img align="left" height="200" src="https://i.pinimg.com/originals/af/28/92/af2892848598fa3b0e144ef554a74df4.gif"  />
 
 ###
 
