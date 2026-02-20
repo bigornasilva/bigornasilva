@@ -24,20 +24,6 @@
 
 ###
 
-<img align="right" height="200" src="https://giffiles.alphacoders.com/124/12442.gif"  />
-
-###
-
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1leWw2eWNteGwybW5iNnR3amF4dW5iamo5YnNtZzRobm4zcGV2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ATmiVRWGzQFNFixDnP/giphy.gif"  />
-
-###
-
-<img align="left" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wt9mI88fN7w5NQUlXiv92LjjUo3IoWWAQw&s"  />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="https://open.spotify.com/user/12144479857">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12144479857&count=3&unique=false" alt="Spotify recently played"  />
@@ -45,10 +31,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bigornasilva.bigornasilva&"  />
-</div>
 
 ###
 
